@@ -31,6 +31,31 @@ A collection of Ruby programming exercises covering fundamental concepts and pro
 - `rightTriangle.rb` - Right triangle operations
 - `sphrVol.rb` - Sphere volume calculation
 
+### Blocks and Iterators
+- `doubleElements.rb` - Double array elements using blocks
+- `eg1.rb` - Basic block usage with each method
+- `evenOnly.rb` - Filter even numbers using blocks
+- `greetUser.rb` - User greeting with blocks
+- `maybeDo.rb` - Conditional block execution
+- `my_each.rb` - Custom each method implementation
+- `passArg.rb` - Passing arguments to blocks
+- `sumDiff.rb` - Sum and difference calculations with blocks
+
+### Lambdas and Procs
+- `cubeMap.rb` - Cube mapping using lambdas
+- `evenOdd.rb` - Even/odd checking with lambdas
+- `greaterThen0.rb` - Filter positive numbers using lambdas
+- `greetName.rb` - Name greeting with lambdas
+- `helloLambda.rb` - Basic lambda usage
+- `methAgr.rb` - Method arguments with lambdas
+
+### File Input/Output
+- `appendFile.rb` - Append content to files
+- `openFile.rb` - Read and open files
+- `writeFile.rb` - Write content to files
+- `news.txt` - Sample text file for reading
+- `output.txt` - Output file for writing operations
+
 ### Utility Programs
 - `dateTime.rb` - Date and time operations
 - `extensionPrinter.rb` - File extension handling
@@ -47,3 +72,6 @@ These exercises demonstrate:
 - Mathematical operations
 - Conditional logic
 - Input/output handling
+- Block and iterator usage
+- Lambda and proc concepts
+- File I/O operations
